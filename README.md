@@ -4,8 +4,8 @@ I have used Html5, Css3, Vanilla Javascript in my project.
 Also I have added Font Awesome library for my icons and AOS library for scrolling animationa
 
 ## feauters
-showing some details which are related to me, 
-showing my certificate, 
+#showing some details which are related to me, 
+#showing my certificate, 
 showing my CV, 
 Demonstrating My Hard and Soft skills, 
 Demonstrating my English knowledge, 
