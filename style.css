@@ -494,6 +494,7 @@ label {
 #FAQ {
   width: 100vw;
   height: 100vh;
+  margin-bottom: 30px;
 }
 
 .accordion-content > h2 {
